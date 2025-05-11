@@ -12,3 +12,4 @@ const LetterDensity = () => {
 };
 
 export default LetterDensity;
+
